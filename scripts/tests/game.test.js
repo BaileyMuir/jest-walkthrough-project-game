@@ -122,4 +122,3 @@
          expect(game.lastButton).toEqual("");
      });
  });
- 
